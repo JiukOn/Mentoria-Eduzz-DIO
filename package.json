@@ -1,0 +1,11 @@
+{
+  "name": "mentoria-dio",
+  "version": "1.0.0",
+  "description": "Vamos atualizar esse repositório ao longo de nossas lives.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JiukOn",
+  "license": "ISC"
+}
